@@ -1,4 +1,5 @@
 #!/bin/bash
+#
 rm ~/.config/i3/config.conf
 rm ~/.config/i3/config
 mv i3config/config  ~/.config/i3/
